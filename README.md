@@ -1,6 +1,6 @@
 # GAR
 
-Guia de Acesso Rápido para o dia a dia de TI.
+Guia de Acesso Rápido para o dia a dia do profissional de TI.
 
 ## Tópicos
 
