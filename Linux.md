@@ -10,5 +10,4 @@ Buscar conteúdo dentro de um arquivo.
 
 ## Links
 
-NodeJS - <https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-centos-8
->
+NodeJS - <https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-centos-8>
