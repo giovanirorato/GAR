@@ -24,11 +24,11 @@ Se a imagem foi gerada sem erro prosiga com os comandos:
 
 Para gerar um container execute o seguinte comando:
 
-Exemplo:
+Padrão:
 
     docker run -d -it --name <nome_do_container> <imagem>
 
-Simulação:
+Exemplo:
 
     docker run -d -it --name expresso expresso:1.6.0
 
@@ -67,12 +67,12 @@ Comandos mais usados:
 
 Acessar o diretório do projeto, os projetos serão salvos no diretório __/opt__:
 
-    cd /opt/<projeto>
+    sh-4.4# cd /opt/<projeto>
 
 Pare executar os códigos python
 
-    python3 /diretorio/arquivo.py
+    sh-4.4# python3 /diretorio/arquivo.py
 
 ou
 
-    python3 arquivo.py
+    sh-4.4# python3 arquivo.py
