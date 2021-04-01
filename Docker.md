@@ -26,11 +26,11 @@ Para gerar um container execute o seguinte comando:
 
 Padrão:
 
-    docker run -d -it --name <nome_do_container> <imagem>
+    docker run -d -it -p <porta>:<porta_container> --name <nome_do_container> <imagem>
 
 Exemplo:
 
-    docker run -d -it --name expresso expresso:1.6.0
+    docker run -d -it -p 80:8888 --name expresso expresso:1.6.0
 
 ## Conatiners
 
